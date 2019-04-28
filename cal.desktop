@@ -1,0 +1,11 @@
+#!/usr/bin/evn xdg-open
+[Desktop Entry]
+Type=Application
+Name=苏宁计算
+Comment=傲寒弘毅信息科技有限公司开发
+Icon=/usr/local/iconCal.png
+Exec=python3 /usr/local/Calculator.py
+Terminal=false
+Categories=Network
+X-Deepin-AppID=sn-ahhyi
+
